@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" "/Users/victorsmits/Dropbox/ECAM/BAC3/Electronique numérique/Programmation C/C"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/victorsmits/Dropbox/ECAM/BAC3/Electronique numérique/Programmation C/C/cmake-build-default
